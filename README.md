@@ -1,2 +1,2 @@
 # tic-tac-toe
-C
+A simple tic-tac-toe game in C
